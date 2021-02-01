@@ -13,3 +13,6 @@ C?
 And much more...
 
 
+# System specs and OS
+
+![alt text](image.png)
