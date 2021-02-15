@@ -4,11 +4,7 @@ I am a 14 year old hoping to become a software engineer in the future, and I am 
 
 # Currently learning:
 
-How to make a linux distro
-
-Golang
-
-C?
+Too much lol
 
 And much more...
 
