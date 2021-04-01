@@ -8,4 +8,4 @@ The Linux Kernel
 
 # System specs and OS
 
-![alt text](image.png)
+![image](https://user-images.githubusercontent.com/25110919/113349309-d570ef80-9305-11eb-9fc2-3f961752d4da.png)
