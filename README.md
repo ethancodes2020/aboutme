@@ -1,5 +1,5 @@
 # Hello! I am Ethan Atchley! :wave:
-I am a 14 year old, soon 15 year old, developer working on Ataraxia GNU/Linux and Otaku GNU/Linux.
+I am a 15 year old developer working on Ataraxia GNU/Linux and Kickass GNU/Linux.
 
 # Currently Learning:
 
