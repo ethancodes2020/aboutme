@@ -7,4 +7,4 @@ Not even sure anymore lol
 
 # System specs and OS
 
-![image](https://user-images.githubusercontent.com/25110919/117590229-edfed180-b11d-11eb-855c-1f8e2a309511.png)
+![image](https://user-images.githubusercontent.com/25110919/119912964-8ec8fb80-bf2a-11eb-8612-a7ccc3826ebc.png)
